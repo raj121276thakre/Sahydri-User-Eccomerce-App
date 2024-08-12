@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "51383896592",
+    "project_id": "cosmetic-ecommerce-app",
+    "storage_bucket": "cosmetic-ecommerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51383896592:android:49ce8b8430b886c9dcd895",
+        "android_client_info": {
+          "package_name": "com.app.adminecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7CzCNcfdDDphFREfQyCE2Xrs6G2K5GbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51383896592:android:56e631e3f924936fdcd895",
+        "android_client_info": {
+          "package_name": "com.app.userecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7CzCNcfdDDphFREfQyCE2Xrs6G2K5GbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51383896592:android:282209cb80253465dcd895",
+        "android_client_info": {
+          "package_name": "com.myapp.diptradersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7CzCNcfdDDphFREfQyCE2Xrs6G2K5GbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
